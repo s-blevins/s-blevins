@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @s-blevins
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me on this platform
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am a Speech-Language Pathologist looking into a new field
 <!---
